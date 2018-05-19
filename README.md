@@ -29,6 +29,6 @@ o índices de Complexidade e o Índice de Retenção.
 A avaliação do grau de dificuldade de uma disciplina torna-se subjetivo, assim como mensurar o quão 
 complexo é determinado curso apenas com base em suas cargas horárias.
 
-Defini-se como _caminho de pré-requisitos_ uma sequência $(m_n, s_n)$ de $n$ disciplinas em que 
-$(m_i, s_i)$ é um pré-requisito de $(m_{i+1}, s_{i+1})$. Novo test ![](https://latex.codecogs.com/gif.latex?this_{is_{a_{test}}})
+Defini-se como _caminho de pré-requisitos_ uma sequência \(m_n, s_n\)$ de $n$ disciplinas em que 
+$(m_i, s_i)$ é um pré-requisito de $(m_{i+1}, s_{i+1})$. Novo test ![](https://latex.codecogs.com/gif.latex?\inline&space;this_{is_{a_{test}}}{\color{Emerald}})
 
