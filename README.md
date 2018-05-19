@@ -1,8 +1,6 @@
-# Apresentação
+# Aviso
 
 **Website em construção!**
-
-Este é um trabalho desenvolvide na [Universidade Federal do Cariri - UFCA](http://www.ufca.edu.br) com o objeto de produzir uma análise quantitativa de Projetos Políticos Pedagógicos.
 
 _Para maiores informações, contate: ikaroruan@outlook.com_
 
@@ -16,7 +14,7 @@ Entretanto vale um exame de quão extenso ou profundo eles foram utilizados
 na formação profissional. Este projeto, visa a fazer um análise do ponto de vista
 quantitativo e construir um aplicativo para realizar esta análise de PPC’s.
 
-Este projeto é desenvolvido na [Universidade Federal do Cariri](httṕ://www.ufca.edu.br)
+Este projeto é desenvolvido na [Universidade Federal do Cariri (UFCA)](http://www.ufca.edu.br)
 sob apoio da Pró-Reitoria de Pesquisa, Inovação e Pós-graduação (PRPI).
 
 # Índices
@@ -24,11 +22,30 @@ sob apoio da Pró-Reitoria de Pesquisa, Inovação e Pós-graduação (PRPI).
 Define-se, então, três índices com base nos pré-requisitos entre as disciplinas. São eles: o Peso dos Pré-requisitos,
 o índices de Complexidade e o Índice de Retenção.
 
-## Peso dos Pré-requisitos
+Para maiores informações sobre os índices, consultar [Adicionar Link].
 
-A avaliação do grau de dificuldade de uma disciplina torna-se subjetivo, assim como mensurar o quão 
-complexo é determinado curso apenas com base em suas cargas horárias.
+# Implementação
 
-Defini-se como _caminho de pré-requisitos_ uma sequência \(m_n, s_n\)$ de $n$ disciplinas em que 
-$(m_i, s_i)$ é um pré-requisito de $(m_{i+1}, s_{i+1})$. Novo test ![](https://latex.codecogs.com/gif.latex?\inline&space;this_{is_{a_{test}}}{\color{Emerald}})
+O aplicativo AnálisePPC foi desenvolvido em Python 3 e sua GUI (Guided User Interface) com auxílio das ferramentas
+PyQt 4, QtDesigner e biblioteca matplotlib.
 
+# Download
+
+Os seguintes links possuem as versões disponíveis para download.
+
+**Atenção:** Estas são versões preliminares, ainda necessitando de pequenos ajustes. Consulte o arquivo modelo.
+
+- Linux: [Link aqui]
+- Windows: [Link aqui]
+
+# Contato
+
+Para maiores informações entrar em contato com:
+
+- Plácido Andrade. Email: _example@domain.com_
+- Ikaro Costa. Email: _ikaroruan@outlook.com_
+
+# Agradecimento
+
+A equipe de desenvolvimento do aplicativo agradece a todo o apoio recebido através da Pró-reitoria de
+Pesquisa, Inovação e Pós-graduação (PRPI) da UFCA.
