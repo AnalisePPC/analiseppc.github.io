@@ -1,3 +1,7 @@
+**Autores:**
+- Plácido Andrade
+- Ikaro Costa
+
 # Apresentação
 
 
