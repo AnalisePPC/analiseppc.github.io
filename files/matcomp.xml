@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<root>
+  <PPC>
+    <complementary_hours>100</complementary_hours>
+    <intern_hours>100</intern_hours>
+    <number_of_semesters>7</number_of_semesters>
+    <course>
+      <course_name>Calculo I</course_name>
+      <course_code>CCT001</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites/>
+      <course_semester>1</course_semester>
+    </course>
+    <course>
+      <course_name>Algebra Vetorial e Geometria Analitica</course_name>
+      <course_code>CCT002</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>1</course_semester>
+    </course>
+    <course>
+      <course_name>Fundamentos de Matematica Discreta</course_name>
+      <course_code>CCT003</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>1</course_semester>
+    </course>
+    <course>
+      <course_name>Seminario Multidisciplinar</course_name>
+      <course_code>CCT006</course_code>
+      <course_hours>32</course_hours>
+      <prerequisites/>
+      <course_semester>1</course_semester>
+    </course>
+    <course>
+      <course_name>Calculo II</course_name>
+      <course_code>CCT007</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT001</prerequisites>
+      <course_semester>2</course_semester>
+    </course>
+    <course>
+      <course_name>Algebra Linear I</course_name>
+      <course_code>CCT008</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>2</course_semester>
+    </course>
+    <course>
+      <course_name>Probabilidade e Estatistica</course_name>
+      <course_code>CCT009</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>2</course_semester>
+    </course>
+    <course>
+      <course_name>Algoritmos e Estruturas de Dados I</course_name>
+      <course_code>CCT010</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites/>
+      <course_semester>2</course_semester>
+    </course>
+    <course>
+      <course_name>Laboratorio de Programacao</course_name>
+      <course_code>CCT012</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT004</prerequisites>
+      <course_semester>2</course_semester>
+    </course>
+    <course>
+      <course_name>Introducao a Programacao</course_name>
+      <course_code>CCT004</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites/>
+      <course_semester>1</course_semester>
+    </course>
+    <course>
+      <course_name>Calculo Vetorial</course_name>
+      <course_code>CCT013</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT002 CCT007</prerequisites>
+      <course_semester>3</course_semester>
+    </course>
+    <course>
+      <course_name>Fundamentos de Mecanica</course_name>
+      <course_code>CCT014</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>3</course_semester>
+    </course>
+    <course>
+      <course_name>Calculo Numerico</course_name>
+      <course_code>CCT015</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT007</prerequisites>
+      <course_semester>3</course_semester>
+    </course>
+    <course>
+      <course_name>Algoritmos e Estruturas de Dados II</course_name>
+      <course_code>CCT016</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites>CCT010</prerequisites>
+      <course_semester>3</course_semester>
+    </course>
+    <course>
+      <course_name>Programacao orientada a objetos</course_name>
+      <course_code>CCT018</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT012</prerequisites>
+      <course_semester>3</course_semester>
+    </course>
+    <course>
+      <course_name>Introducao a EDO</course_name>
+      <course_code>CCT019</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT007 CCT008</prerequisites>
+      <course_semester>4</course_semester>
+    </course>
+    <course>
+      <course_name>Introducao a Teoria dos Numeros</course_name>
+      <course_code>CCT020</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>4</course_semester>
+    </course>
+    <course>
+      <course_name>Fundamentos de Eletromagnetismo</course_name>
+      <course_code>CCT021</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>4</course_semester>
+    </course>
+    <course>
+      <course_name>Grafos e Algoritmos</course_name>
+      <course_code>CCT022</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT016</prerequisites>
+      <course_semester>4</course_semester>
+    </course>
+    <course>
+      <course_name>Algebra Linear Computacional</course_name>
+      <course_code>CCT023</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites>CCT015</prerequisites>
+      <course_semester>4</course_semester>
+    </course>
+    <course>
+      <course_name>Analise I</course_name>
+      <course_code>CCT025</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites>CCT013</prerequisites>
+      <course_semester>5</course_semester>
+    </course>
+    <course>
+      <course_name>Variaveis Complexas</course_name>
+      <course_code>CCT026</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT013</prerequisites>
+      <course_semester>5</course_semester>
+    </course>
+    <course>
+      <course_name>Metodos Numericos para EDO</course_name>
+      <course_code>CCT027</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites>CCT015</prerequisites>
+      <course_semester>5</course_semester>
+    </course>
+    <course>
+      <course_name>Analise II</course_name>
+      <course_code>CCT029</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT025</prerequisites>
+      <course_semester>6</course_semester>
+    </course>
+    <course>
+      <course_name>Introducao a Teoria dos Grupos</course_name>
+      <course_code>CCT030</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites>CCT020</prerequisites>
+      <course_semester>6</course_semester>
+    </course>
+    <course>
+      <course_name>Monografia I</course_name>
+      <course_code>CCT031</course_code>
+      <course_hours>64</course_hours>
+      <prerequisites/>
+      <course_semester>6</course_semester>
+    </course>
+    <course>
+      <course_name>Monografia II</course_name>
+      <course_code>CCT032</course_code>
+      <course_hours>96</course_hours>
+      <prerequisites>CCT031</prerequisites>
+      <course_semester>7</course_semester>
+    </course>
+  </PPC>
+</root>

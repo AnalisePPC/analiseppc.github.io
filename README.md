@@ -1,9 +1,3 @@
-# Aviso
-
-**Website em construção!**
-
-_Para maiores informações, contate: ikaroruan@outlook.com_
-
 # Apresentação
 
 
@@ -19,10 +13,10 @@ sob apoio da Pró-Reitoria de Pesquisa, Inovação e Pós-graduação (PRPI).
 
 # Índices
 
-Define-se, então, três índices com base nos pré-requisitos entre as disciplinas. São eles: o Peso dos Pré-requisitos,
+Define-se, então, dois índices com base nos pré-requisitos entre as disciplinas. São eles:
 o índices de Complexidade e o Índice de Retenção.
 
-Para maiores informações sobre os índices, consultar [Adicionar Link].
+Para maiores informações sobre os índices, consultar o arquivo disposto [neste link](/files/analiseppcs.pdf).
 
 # Implementação
 
@@ -33,10 +27,60 @@ PyQt 4, QtDesigner e biblioteca matplotlib.
 
 Os seguintes links possuem as versões disponíveis para download.
 
-**Atenção:** Estas são versões preliminares, ainda necessitando de pequenos ajustes. Consulte o arquivo modelo.
+**Atenção:** Estas são versões preliminares, ainda necessitando de ajustes. A versões a seguir ainda possuem altos níveis de dependência 
+de determinadas bibliotecas, acarretando em arquivos de tamanho maior e que levam mais tempo para serem carregados.
 
-- Linux: [Link aqui]
-- Windows: [Link aqui]
+- Linux: [Clique aqui.](https://drive.google.com/open?id=1mPBb3AtoNffdFRvJoS8FvTrm9aZ1-NUB)
+- Windows: [Clique aqui.](https://drive.google.com/open?id=1G9aUJNsLargeTF9gSyV4Cdgu4dC4Jrwq)
+
+Os arquivos acimas foram produzidos pelo PyInstaller sob Fedora 24, para versão Linux, e Windows 10.
+
+# Instruções
+
+## PPC Modelo
+
+Para servir de modelo, apresento o PPC exemplo disponível [aqui](/files/matcomp.xml). Tal PPC pode ser aberto com os seguintes passos:
+
+'''
+Arquivo -> Abrir PPC -> Selecionar PPC exemplo ou outro
+'''
+
+Em seguida, para o cálculo dos índices siga:
+
+'''
+Calcular -> PPC1 (Caso esteja aberto na aba PPC1)
+'''
+
+Será uma mostrada uma nova janela com os resultados.
+
+## Criando um novo PPC
+
+Para criar um novo PPC, inicie com dados de carga horária complementar e de estágio supervisionado, assim como número de semestres requeridos para 
+conclusão do curso de graduação.
+
+**Atenção:** Apenas o nome não é um campo obrigatório na janela principal.
+
+Em seguida, clique em "Adicionar Curso" e preencha as lacunas com os dados da disciplina.
+
+**Atenção:** Todos os dados na janela de adicionar curso são obrigatórios. Para inserir os pré-requisitos siga as instruções dispostas na janela.
+
+Após finalizada a inserção de disciplinas, pode-se proceder como:
+
+'''
+Calcular -> PPC1
+'''
+
+Caso as disciplinas tenham sido adicionadas na aba "PPC1", caso siga clique em "PPC2" no menu calcular.
+
+## Comparando dois PPCs
+
+Para proceder a comparação de dois PPCs, adicione ou abra cada PPC em uma aba distinta ("PPC1" e "PPC2") e prossiga para:
+
+'''
+Calcular -> Comparação
+'''
+
+Assim, uma janela de compação de índices será aberta.
 
 # Contato
 
