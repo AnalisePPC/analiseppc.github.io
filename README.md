@@ -31,13 +31,16 @@ PyQt 4, QtDesigner e biblioteca matplotlib.
 
 Os seguintes links possuem as versões disponíveis para download.
 
-**Atenção:** Estas são versões preliminares, ainda necessitando de ajustes. A versões a seguir ainda possuem altos níveis de dependência 
-de determinadas bibliotecas, acarretando em arquivos de tamanho maior e que levam mais tempo para serem carregados.
+Essa é versão 1.0 do software AnálisePPC. A principal diferença entre as versões 0 e 1.0 é a verificação de possíveis erros quanto à inserção de disciplinas 
+do PPC, além das correções de bugs.
 
-- Linux: [Clique aqui.](https://drive.google.com/open?id=1mPBb3AtoNffdFRvJoS8FvTrm9aZ1-NUB)
-- Windows: [Clique aqui.](https://drive.google.com/open?id=1G9aUJNsLargeTF9gSyV4Cdgu4dC4Jrwq)
+- Linux: [Clique aqui.](https://drive.google.com/open?id=1RFXxFeQwc9VEuYRWibWyYnW12itnqqjX)
+- Windows: [Clique aqui.](https://drive.google.com/file/d/1OseRyx3WOBoxkv2pDi16m3FD3x21IwwL/view?usp=sharing)
 
-Os arquivos acimas foram produzidos pelo PyInstaller sob Fedora 24, para versão Linux, e Windows 10.
+Os executáveis acimas foram produzidos pelo PyInstaller sob Fedora 24, para versão Linux, e Windows 10. A dependência de bibliotecas ainda é um caso a ser 
+resolvido, logo a versão Windows continua com tamanho excessivo. 
+
+***Atenção:*** Se deseja reportar algo de incomum no programa, por favor, entrar em contato com os autores.
 
 # Instruções
 
@@ -90,7 +93,7 @@ Assim, uma janela de compação de índices será aberta.
 
 Para maiores informações entrar em contato com:
 
-- Plácido Andrade. Email: _example@domain.com_
+- Plácido Andrade. Email: _placido.andrade@ufca.edu.br_
 - Ikaro Costa. Email: _ikaroruan@outlook.com_
 
 # Agradecimento
