@@ -31,11 +31,11 @@ PyQt 4, QtDesigner e biblioteca matplotlib.
 
 Os seguintes links possuem as versões disponíveis para download.
 
-Essa é versão 1.0 do software AnálisePPC. A principal diferença entre as versões 0 e 1.0 é a verificação de possíveis erros quanto à inserção de disciplinas 
-do PPC, além das correções de bugs.
+Essa é versão 1.0.1 do software AnálisePPC. A principal diferença entre as versões 0 e 1.0 é a verificação de possíveis erros quanto à inserção de disciplinas 
+do PPC, além das correções de bugs. Já a versão 1.0.1 traz melhorias na apresentação dos resultados.
 
-- Linux: [Clique aqui.](https://drive.google.com/open?id=1RFXxFeQwc9VEuYRWibWyYnW12itnqqjX)
-- Windows: [Clique aqui.](https://drive.google.com/file/d/1OseRyx3WOBoxkv2pDi16m3FD3x21IwwL/view?usp=sharing)
+- Linux: [Clique aqui.](https://drive.google.com/file/d/1jpUaOVpDwVqrGFmN0Uii3QYpIN_YPEbv/view?usp=sharing)
+- Windows: [Clique aqui.](https://drive.google.com/file/d/1glo5cdKDRN2405af6Gs5t-EfPSQdvUba/view?usp=sharing)
 
 Os executáveis acimas foram produzidos pelo PyInstaller sob Fedora 24, para versão Linux, e Windows 10. A dependência de bibliotecas ainda é um caso a ser 
 resolvido, logo a versão Windows continua com tamanho excessivo. 
